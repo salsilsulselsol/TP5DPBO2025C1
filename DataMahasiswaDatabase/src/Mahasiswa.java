@@ -12,7 +12,7 @@ public class Mahasiswa {
         this.nilai = nilai;
     }
 
-    // Getter dan Setter
+    // Getter dan Setter (udah ga perlu sebenernya karena pake JDBC jadi udah ada dari MySQL tapi ini buat formalitas aja)
     public String getNim() {
         return this.nim;
     }

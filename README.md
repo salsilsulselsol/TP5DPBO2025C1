@@ -56,10 +56,14 @@ Berdasarkan program TP4DPBO2025C1, program ini telah dikembangkan dengan menamba
 4. Setiap operasi CRUD terhubung langsung ke database:
    - Operasi READ menggunakan database.selectQuery()
    - Operasi CREATE, UPDATE, DELETE menggunakan database.insertUpdateDeleteQuery()
-5. Validasi ditambahkan:
+5. Validasi:
    - Semua field harus diisi (tidak boleh kosong)
    - NIM tidak boleh duplikat saat insert atau update
 6. Dialog/prompt error akan ditampilkan jika terjadi kesalahan validasi
 
 # Dokumentasi
-<Soon>
+
+
+https://github.com/user-attachments/assets/d1da67dc-f650-45ee-a2d4-56678aad96f5
+
+
